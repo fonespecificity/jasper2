@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/jasper2/</title>
+      <title>/</title>
    
-   <link>/jasper2/</link>
+   <link>/</link>
    <description>Platform to help build a better dream team</description>
    <language>en-uk</language>
    
@@ -37,21 +37,21 @@
    <description>
    <![CDATA[ Platform to help build a better dream team ]]>
    </description>
-   <link>/jasper2/</link>
+   <link>/</link>
    <image>
-   <url>/jasper2/assets/images/favicon.png</url>
+   <url>/assets/images/favicon.png</url>
    <title>Rexer - Fanatsy11team.com</title>
-   <link>/jasper2/</link>
+   <link>/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/jasper2/author/rexer/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="/author/rexer/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Welcome to Fantasy11team.com</title>
-	  <link>/jasper2/welcome</link>
+	  <link>/welcome</link>
 		
 				
 		
@@ -72,7 +72,7 @@
 				
 		
 	  <pubDate>2018-01-29T09:30:00+05:30</pubDate>
-	  <guid>/jasper2/welcome</guid>
+	  <guid>/welcome</guid>
 	  <description><![CDATA[
 	     <p>Hey! Welcome to Fantasy11test.com, it’s great to have you :)</p>
 
@@ -92,7 +92,7 @@
 
 	<item>
 	  <title>Delhi Daredevil buys a 17 year Old Youngster</title>
-	  <link>/jasper2/ipl-dd</link>
+	  <link>/ipl-dd</link>
 		
 				
 		
@@ -113,7 +113,7 @@
 				
 		
 	  <pubDate>2018-01-29T08:30:00+05:30</pubDate>
-	  <guid>/jasper2/ipl-dd</guid>
+	  <guid>/ipl-dd</guid>
 	  <description><![CDATA[
 	     <p>In IPL 2018 auction undergoing in Bangalore, Delhi Daredevil ipl team has bought a 17 year old Nepalese cricketer.</p>
 
