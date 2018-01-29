@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://fantasy11team.com/</title>
    
-   <link>/</link>
+   <link>https://fantasy11team.com/</link>
    <description>Platform to help build a better dream team</description>
    <language>en-uk</language>
    
@@ -37,15 +37,15 @@
    <description>
    <![CDATA[ Platform to help build a better dream team ]]>
    </description>
-   <link>/</link>
+   <link>https://fantasy11team.com/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://fantasy11team.com/assets/images/favicon.png</url>
    <title>Lewis Carroll - Fantasy11Team.com</title>
-   <link>/</link>
+   <link>https://fantasy11team.com/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/author/lewis/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://fantasy11team.com/author/lewis/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
