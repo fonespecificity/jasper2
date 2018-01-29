@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>http://localhost:4000/jasper2/</title>
+   
+   <link>http://localhost:4000/jasper2/</link>
+   <description>Platform to help build a better dream team</description>
+   <language>en-uk</language>
+   
+      
+            
+      
+            
+               
+               
+                  <managingEditor>Rexer</managingEditor>
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+            
+      
+   
+   <title>
+   <![CDATA[ Rexer - Fanatsy11team.com ]]>
+   </title>
+   <description>
+   <![CDATA[ Platform to help build a better dream team ]]>
+   </description>
+   <link>http://localhost:4000/jasper2/</link>
+   <image>
+   <url>http://localhost:4000/jasper2/assets/images/favicon.png</url>
+   <title>Rexer - Fanatsy11team.com</title>
+   <link>http://localhost:4000/jasper2/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="http://localhost:4000/jasper2/author/rexer/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Welcome to Fantasy11team.com</title>
+	  <link>http://localhost:4000/jasper2/welcome</link>
+		
+				
+		
+				
+						<author>Rexer</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2018-01-29T09:30:00+05:30</pubDate>
+	  <guid>http://localhost:4000/jasper2/welcome</guid>
+	  <description><![CDATA[
+	     <p>Hey! Welcome to Fantasy11test.com, it’s great to have you :)</p>
+
+<p>We will be providing you great tips, previews and suggestions and lastest news which help you in building a great team. Good Luck!!</p>
+
+<h3 id="there-are-a-few-things-that-we-will-be-provising-on-this-site">There are a few things that we will be provising on this site:</h3>
+<ol>
+  <li>News about the teams, who is in the squad, who is not playing the match, who is replacing who.</li>
+  <li>Expected 11 from both the teams will be provided along with suggestions about captain and vice-captain.</li>
+  <li>Our dream teams will also be published to help you out in the selection.</li>
+</ol>
+
+<p>This website has been developed using jasper2 from the github.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Delhi Daredevil buys a 17 year Old Youngster</title>
+	  <link>http://localhost:4000/jasper2/ipl-dd</link>
+		
+				
+		
+				
+						<author>Rexer</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2018-01-29T08:30:00+05:30</pubDate>
+	  <guid>http://localhost:4000/jasper2/ipl-dd</guid>
+	  <description><![CDATA[
+	     <p>In IPL 2018 auction undergoing in Bangalore, Delhi Daredevil ipl team has bought a 17 year old Nepalese cricketer.</p>
+
+<p>Sandeep Lamichhane will be joining the DD squad for this season’s IPL.</p>
+
+<p>He came into the lime light after his performance in 2016 Under-19 Cricket World Cup. Afther that he was invited to play in oen of the Sydney-based clubs.</p>
+
+<p>In January 2018, he was included in the list of players for auction in the 2018 Indian Premier League where his base price is 20 lakhs INR.He has been bought by Delhi Daredevils at his base price and became the first Nepalese player to get an IPL contract.</p>
+
+<p>In January 2018, he was named in Nepal’s squad for the 2018 ICC World Cricket League Division Two tournament.</p>
+
+<p>Sandeep (born 2 August 2000) is a Nepalese cricketer. He made his List A debut in the 2015–17 ICC World Cricket League Championship on 16 April 2016 against Namibia. Prior to his List A debut, he was named in Nepal’s under-19 squad for the 2016 Under-19 Cricket World Cup. In September 2016 Lamichhane received a letter from former Australian captain Michael Clarke, inviting him to play at the Sydney-based Western Suburbs District Cricket Club.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Organising your content with tags</title>
+	  <link>http://localhost:4000/jasper2/using-tags</link>
+		
+				
+		
+				
+						<author>Rexer</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2017-07-27T13:30:00+05:30</pubDate>
+	  <guid>http://localhost:4000/jasper2/using-tags</guid>
+	  <description><![CDATA[
+	     <p>Ghost has a single, powerful organisational taxonomy, called tags.</p>
+<p>It doesn't matter whether you want to call them categories, tags, boxes, or anything else. You can think of Ghost tags a lot like Gmail labels. By tagging posts with one or more keyword, you can organise articles into buckets of related content.</p>
+<h2 id="basictagging">Basic tagging</h2>
+<p>When you write a post, you can assign tags to help differentiate between categories of content. For example, you might tag some posts with <code>News</code> and other posts with <code>Cycling</code>, which would create two distinct categories of content listed on <code>/tag/news/</code> and <code>/tag/cycling/</code>, respectively.</p>
+<p>If you tag a post with both <code>News</code> <em>and</em> <code>Cycling</code> - then it appears in both sections.</p>
+<p>Tag archives are like dedicated home-pages for each category of content that you have. They have their own pages, their own RSS feeds, and can support their own cover images and meta data.</p>
+<h2 id="theprimarytag">The primary tag</h2>
+<p>Inside the Ghost editor, you can drag and drop tags into a specific order. The first tag in the list is always given the most importance, and some themes will only display the primary tag (the first tag in the list) by default. So you can add the most important tag which you want to show up in your theme, but also add a bunch of related tags which are less important.</p>
+<p><mark><strong>News</strong>, Cycling, Bart Stevens, Extreme Sports</mark></p>
+<p>In this example, <strong>News</strong> is the primary tag which will be displayed by the theme, but the post will also still receive all the other tags, and show up in their respective archives.</p>
+<h2 id="privatetags">Private tags</h2>
+<p>Sometimes you may want to assign a post a specific tag, but you don't necessarily want that tag appearing in the theme or creating an archive page. In Ghost, hashtags are private and can be used for special styling.</p>
+<p>For example, if you sometimes publish posts with video content - you might want your theme to adapt and get rid of the sidebar for these posts, to give more space for an embedded video to fill the screen. In this case, you could use private tags to tell your theme what to do.</p>
+<p><mark><strong>News</strong>, Cycling, #video</mark></p>
+<p>Here, the theme would assign the post publicly displayed tags of <code>News</code>, and <code>Cycling</code> - but it would also keep a private record of the post being tagged with <code>#video</code>.</p>
+<p>In your theme, you could then look for private tags conditionally and give them special formatting:</p>
+
+<pre><code class="nohighlight">{{#post}}
+    {{#has tag=&quot;#video&quot;}}
+        ...markup for a nice big video post layout...
+    {{else}}
+        ...regular markup for a post...
+    {{/has}}
+{{/post}}
+</code></pre>
+<p>You can find documentation for theme development techniques like this and many more over on Ghost's extensive <a href="https://themes.ghost.org/">theme documentation</a>.</p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
