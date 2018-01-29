@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>http://localhost:4000/jasper2/</title>
+   
+   <link>http://localhost:4000/jasper2/</link>
+   <description>Platform to help build a better dream team</description>
+   <language>en-uk</language>
+   
+   <title>
+   <![CDATA[ Fanatsy11team.com ]]>
+   </title>
+   <description>
+   <![CDATA[ Platform to help build a better dream team ]]>
+   </description>
+   <link>http://localhost:4000/jasper2/</link>
+   <image>
+   <url>http://localhost:4000/jasper2/assets/images/favicon.png</url>
+   <title>Fanatsy11team.com</title>
+   <link>http://localhost:4000/jasper2/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="http://localhost:4000/jasper2/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Welcome to Fantasy11team.com</title>
+	  <link>http://localhost:4000/jasper2/welcome</link>
+		
+				
+		
+				
+						<author>Rexer</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2018-01-29T09:30:00+05:30</pubDate>
+	  <guid>http://localhost:4000/jasper2/welcome</guid>
+	  <description><![CDATA[
+	     <p>Hey! Welcome to Fantasy11test.com, it’s great to have you :)</p>
+
+<p>We will be providing you great tips, previews and suggestions and lastest news which help you in building a great team. Good Luck!!</p>
+
+<h3 id="there-are-a-few-things-that-we-will-be-provising-on-this-site">There are a few things that we will be provising on this site:</h3>
+<ol>
+  <li>News about the teams, who is in the squad, who is not playing the match, who is replacing who.</li>
+  <li>Expected 11 from both the teams will be provided along with suggestions about captain and vice-captain.</li>
+  <li>Our dream teams will also be published to help you out in the selection.</li>
+</ol>
+
+<p>This website has been developed using jasper2 from the github.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
